@@ -1,0 +1,32 @@
+.Wrapper {
+ text-align:  center;
+}
+
+.NoteWrapper {
+    margin: 10px auto;
+    width: 400px;
+
+}
+
+.Note {
+    border: solid 2px red;
+    height: 50px;
+    margin: 15px;
+
+}
+textarea {
+    resize: none;
+    width: 400px;
+    height: 150px;
+  }
+
+.btnStyle {
+    color: white;
+    width: 400px;
+    cursor: pointer;
+    background-color: #000;
+}
+.btnWrapper{
+    display: flex;
+    justify-content: center;
+}

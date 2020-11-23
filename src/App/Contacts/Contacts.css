@@ -1,0 +1,17 @@
+.Avatar {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+.ContactsWrapper {
+
+
+
+
+}
+.UserEditBtn{
+    width: 200px;
+    height: 40px;
+    border: solid red 2px;
+    cursor: pointer;
+}

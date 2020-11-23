@@ -1,0 +1,16 @@
+.testBtn {
+    width: 80px;
+    height: 30px;
+    border: solid red;
+    background-color: #fff;
+    border-radius: 3px;
+
+}
+
+.testBntWrapper{
+
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 20%;
+}
